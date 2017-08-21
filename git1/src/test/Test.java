@@ -7,6 +7,7 @@ public class Test {
 int i=9;
 int k=0;
 System.out.println("ni xiang zuo shen me ");
+System.out.println("wawawa");
 	}
 
 }
